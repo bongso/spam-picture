@@ -20,13 +20,16 @@ config 파일류를 제외하고는 ts만 commit
 
 ### issue management
 
-github > project > ph1 > backlog 에 할일을 작성  
+[github > project > ph1](https://github.com/bongso/spam-picture/projects/1) > backlog 에 할일을 작성  
 issue converting 후 milestone 을 ph1로 설정 라벨링 이후 인원한테 assign  
 
 assignee 가 작업을 시작하면 `wip` 라벨을 붙임 완료시에는 `wip`를 제거하고 `done`을 붙임
 
-github > project > ph1 에서 진행 상태에 따라 `wip` > `done` 라벨에 맞게 칸반 보드의 이슈를 수동으로 움직여줌
+[github > project > ph1](https://github.com/bongso/spam-picture/projects/1) 에서 진행 상태에 따라 `wip` > `done` 라벨에 맞게 칸반 보드의 이슈를 수동으로 움직여줌
 
+## concept
+
+컨셉은 [wiki](https://github.com/bongso/spam-picture/wiki)를 통해 관리
 ---
 
 ## reference
